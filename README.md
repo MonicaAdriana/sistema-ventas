@@ -5,3 +5,8 @@ Proyecto de capacitación Git y GitHub.
 ## Módulos
 
 - Ventas
+
+## Tecnologías
+
+- Git
+- GitHub
