@@ -1,0 +1,6 @@
+MODULO CLIENTES
+
+Funciones:
+- Crear cliente
+- Modificar cliente
+- Consultar cliente
